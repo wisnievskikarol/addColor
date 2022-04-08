@@ -1,0 +1,24 @@
+
+.ColorElement-ractangle {
+  height: 50px;
+  width: 50px;
+}
+.ColorElement--delete-icon {
+  width: 30px;
+  justify-self: center;
+  align-self: center;
+  height: 30px;
+  cursor: pointer;
+}
+
+.ColorElement-left-section{
+  justify-self: center;
+  align-self: center;
+}
+
+.ColorElement-container {
+  border: 1px solid #ff8c32 ;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 35px;
+}
